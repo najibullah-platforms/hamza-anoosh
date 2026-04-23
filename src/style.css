@@ -6,6 +6,7 @@
     padding: 24px;
     animation: fade-up 1000ms forwards;
     animation-delay: 1000ms;
+    z-index: 100;
 }
 
 @keyframes fade-up {
